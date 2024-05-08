@@ -23,11 +23,11 @@
 [Proposta](#proposta) •
 [Problemas encontrados](#problems) •
 [Stack](#stack) •
-[Integrations](#third-party-integrations)
 
 </div>
 
 <a name="requsitos"></a>
+
 ## Requsitos
 
 Dentre os requisitos da cliente, se encontram:
@@ -41,6 +41,7 @@ Dentre os requisitos da cliente, se encontram:
 - Possibilidade de utilizar um scanner para adicionar/remover produtos de condicionais e/ou solicitações de impressão
 
 <a name="proposta"></a>
+
 ## Proposta
 
 Após um estudo do caso, propus o seguinte projeto:
@@ -50,6 +51,7 @@ Após um estudo do caso, propus o seguinte projeto:
 Logicamente, também foi necessário a criação de um backend porém não entrei em detalhes para a cliente por motivos óbvios.
 
 <a name="problems"></a>
+
 ## Problemas encontrados
 
 Para este caso, existiu apenas uma funcionalidade que realmente impactou a entrega do projeto, **as impressões.**
@@ -65,6 +67,7 @@ Além da alteração de escopo ainda houve uma dificuldade em alinahr o posicion
 Para ter acesso ao sistema operacional, propus a transformação do site de uso da proprietária para um aplicativo Desktop, após algumas reuniões a proposta foi aceita e o projeto continuou.
 
 <a name="stack"></a>
+
 ## Stack
 Para o aplicativo desktop, tivemos:
 - [Tauri Tauri + ViteJS para a interface](https://tauri.app/)
