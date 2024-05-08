@@ -79,6 +79,7 @@ Para o aplicativo desktop, tivemos:
 - [MongoDB](https://www.mongodb.com/)
 - [React Query](https://tanstack.com/query/v3)
 - [OnScanJS](https://github.com/axenox/onscan.js/)
+- [MSWinPrint.py](https://newcenturycomputers.net/projects/mswinprint.html)
 
 *Para o site dos revendedores e para a pesquisa de satisfação, a stack foi extremamente semelhante ao do aplicativo, porém, não foi utilizado a AWS e o Tauri (Apenas Vite)
 
