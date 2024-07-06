@@ -39,6 +39,7 @@ Dentre os requisitos da cliente, se encontram:
 - Impressão de relatório de vendas, impressão de relatórios dos condicionais
 - Plataforma para os pontos de revenda cadastrarem suas vendas a fim da proprietária poder acompanhar em tempo real como andam as vendas
 - Possibilidade de utilizar um scanner para adicionar/remover produtos de condicionais e/ou solicitações de impressão
+- Gerenciamento de promoções
 - Pesquisa de satisfação
 
 <a name="proposta"></a>
@@ -46,7 +47,7 @@ Dentre os requisitos da cliente, se encontram:
 ## Proposta
 
 Após um estudo do caso, propus o seguinte projeto:
-1. Um site com acesso restrito à proprietária, nele se encontrariam todas as funcionalidades que não envolviam uma venda, ou seja: CRUD de produtos, condicionais e revendedores; impressões dos relatórios/condicionais
+1. Um site com acesso restrito à proprietária, nele se encontrariam todas as funcionalidades que não envolviam uma venda, ou seja: CRUD de produtos, condicionais, promoções e revendedores; impressões dos relatórios/condicionais
 2. Um site para os revendedores, com autenticação exclusiva por ponto de revenda para gerenciamento de logs, contemplando as funcionalidades de cadastro de venda e balanceio de produtos
 3. Um site com uma pesquisa de satisfação personalizada com o tema da loja (a cliente optou por não seguir com o tradicional forms da Google)
 
@@ -90,8 +91,8 @@ Para o backend:
 - [Prisma](https://www.prisma.io/)
   
 <a name="final"></a>
-## Stack
-Atualmente o contrato foi concluído e os produtos entregues, a duração do processo inteiro de implementação, prototipação, desenvolvimento, testes e refinamento durou cerca de 3 meses.
+## Final
+Atualmente o contrato foi concluído e os produtos entregues, a duração do processo inteiro de implementação, prototipação, desenvolvimento, testes e refinamento durou cerca de 4 meses.
 
 
 ## License
