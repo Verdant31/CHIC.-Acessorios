@@ -8,8 +8,9 @@
 } -->
 
 <h1 align="center">
+
   <br>
- <img src="https://github.com/Verdant31/CHIC.-Acessorios/assets/71015476/a057642a-dc3b-4e5c-b154-25ada3b6663c" alt="Chic logo" width="200">
+ <img src="https://github.com/user-attachments/assets/045c2774-131e-43b5-b58f-87b6cd15d8db" alt="Products page" >
 </h1>
 
 <p align="center">
